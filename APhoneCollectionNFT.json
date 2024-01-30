@@ -1,0 +1,41 @@
+{
+    "name": "APhoneCollectionNFT",
+    "symbol": "APhone",
+    "description": "5555 mutation humanoid frogs on chain made by Tee",
+    "external_url": "https://twitter.com/APhone",
+    "seller_fee_basis_points": 0,
+    "image": "https://bafybeie2j3csxyr6zmfeupk2cdubfcuzphs26f7ggm7pg7t3kmicaurhyi.ipfs.nftstorage.link/5554.png?ext=png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Varden"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Robot"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "White Space Doodle Sweater"
+        }
+    ],
+    "collection": {
+        "name": "APhoneCollectionNFT",
+        "family": "APhone"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://bafybeie2j3csxyr6zmfeupk2cdubfcuzphs26f7ggm7pg7t3kmicaurhyi.ipfs.nftstorage.link/5554.png?ext=png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "FNAnDUH7dADQyyegMFsg6a1FPf61VNEX2NsTpWGnSQXn",
+                "share": 100
+            }
+        ]
+    }
+}
