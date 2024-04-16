@@ -1,6 +1,6 @@
 {
-    "name": "APhone-ME",
-    "symbol": "APhone-ME",
+    "name": "T_Saga",
+    "symbol": "T_Saga",
     "description": "APhone 1-Year Access Pass with Magic Eden",
     "external_url": "https://twitter.com/APhone",
     "seller_fee_basis_points": 0,
@@ -8,8 +8,8 @@
     "attributes": [
     ],
     "collection": {
-        "name": "APhone-ME",
-        "family": "APhone-ME"
+        "name": "T_Saga",
+        "family": "T_Saga"
     },
     "properties": {
         "files": [
