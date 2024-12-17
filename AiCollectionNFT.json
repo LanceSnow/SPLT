@@ -1,12 +1,12 @@
 {
-    "name": "American Dream",
-    "symbol": "American Dream",
-    "description": "American Dream",
+    "name": "Aimerican Dream",
+    "symbol": "Aimerican Dream",
+    "description": "Aimerican Dream",
     "external_url": "",
     "seller_fee_basis_points": 0,
-    "image": "APhone_ME.png",
+    "image": "https://raw.githubusercontent.com/LanceSnow/SPLT/refs/heads/main/logo.png",
     "collection": {
-        "name": "American Dream",
-        "family": "American Dream"
+        "name": "Aimerican Dream",
+        "family": "Aimerican Dream"
     }
 }
