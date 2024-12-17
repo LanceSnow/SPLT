@@ -1,0 +1,12 @@
+{
+    "name": "American Dream",
+    "symbol": "American Dream",
+    "description": "American Dream",
+    "external_url": "",
+    "seller_fee_basis_points": 0,
+    "image": "APhone_ME.png",
+    "collection": {
+        "name": "American Dream",
+        "family": "American Dream"
+    }
+}
